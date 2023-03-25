@@ -1,0 +1,8 @@
+prefix=/home/redflag/catkin_ws/devel
+
+Name: costmap_prohibition_layer
+Description: Description of costmap_prohibition_layer
+Version: 0.0.5
+Cflags: -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/costmap_prohibition_layer/include
+Libs: -L${prefix}/lib -lcostmap_prohibition_layer
+Requires: costmap_2d dynamic_reconfigure
