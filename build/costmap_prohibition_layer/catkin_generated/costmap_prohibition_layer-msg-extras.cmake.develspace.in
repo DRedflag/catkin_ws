@@ -1,0 +1,2 @@
+set(costmap_prohibition_layer_MESSAGE_FILES "")
+set(costmap_prohibition_layer_SERVICE_FILES "/home/redflag/catkin_ws/src/costmap_prohibition_layer/srv/ClearProhibitedPoints.srv;/home/redflag/catkin_ws/src/costmap_prohibition_layer/srv/GetProhibitedPoints.srv;/home/redflag/catkin_ws/src/costmap_prohibition_layer/srv/SetProhibitedPoints.srv;/home/redflag/catkin_ws/src/costmap_prohibition_layer/srv/AddProhibitedPoints.srv")
