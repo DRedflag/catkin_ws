@@ -9,12 +9,12 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 {
         try
         {
-                cv::imshow("view", cv_bridge::toCvShare(msg, "rgb8")->image);
+                cv::imshow("view", cv_bridge::toCvShare(msg, "mono8")->image);
                 cv::waitKey(30);
         }
         catch(cv_bridge::Exception& e)
         {
-                ROS_ERROR("Could not convert from '%s' to 'rgb8'.", msg->encoding.c_str());
+                ROS_ERROR("Could not convert from '%s' to 'mono8'.", msg->encoding.c_str());
         }
 }
 
@@ -24,6 +24,6 @@ int main(int argc, char** argv){
         cv::namedWindow("view");
 
         image_transport::ImageTransport it(nh);
-        image_transport::Subcriber sub = it.subcrible("/camera/color/image_raw");
+        image_transport::Subscriber sub = it.subscribe("/camera/color/image_raw", 1, imageCallback);
         cv::destroyWindow("view");
 }

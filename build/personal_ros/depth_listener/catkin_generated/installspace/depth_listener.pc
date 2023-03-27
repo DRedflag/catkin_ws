@@ -1,0 +1,8 @@
+prefix=/home/redflag/catkin_ws/install
+
+Name: depth_listener
+Description: Description of depth_listener
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport roscpp rospy std_msgs
