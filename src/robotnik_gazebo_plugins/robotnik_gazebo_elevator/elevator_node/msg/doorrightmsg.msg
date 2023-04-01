@@ -1,1 +1,0 @@
-float64 doorright_msg
