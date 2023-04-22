@@ -147,16 +147,16 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_py: /home/redfla
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Generating Python from MSG kinova_msgs/ArmJointAnglesAction"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
@@ -171,21 +171,21 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_py: /home/redfla
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Generating Python from MSG kinova_msgs/ArmJointAnglesActionResult"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Generating Python from MSG kinova_msgs/ArmJointAnglesActionFeedback"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
@@ -209,42 +209,42 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_py: /home/redfla
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseAction.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Generating Python from MSG kinova_msgs/ArmPoseAction"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Generating Python from MSG kinova_msgs/ArmPoseActionGoal"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Generating Python from MSG kinova_msgs/ArmPoseActionResult"
@@ -252,86 +252,86 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_py: /home/redfla
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Generating Python from MSG kinova_msgs/ArmPoseActionFeedback"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Generating Python from MSG kinova_msgs/ArmPoseGoal"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Generating Python from MSG kinova_msgs/ArmPoseResult"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Generating Python from MSG kinova_msgs/ArmPoseFeedback"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Generating Python from MSG kinova_msgs/Arm_KinovaPoseAction"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Generating Python from MSG kinova_msgs/Arm_KinovaPoseActionGoal"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Generating Python from MSG kinova_msgs/Arm_KinovaPoseActionResult"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Generating Python from MSG kinova_msgs/Arm_KinovaPoseActionFeedback"
@@ -357,16 +357,16 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_py: /home/redfla
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Generating Python from MSG kinova_msgs/SetFingersPositionAction"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
@@ -374,27 +374,27 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_py: /home/redfla
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Generating Python from MSG kinova_msgs/SetFingersPositionActionGoal"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Generating Python from MSG kinova_msgs/SetFingersPositionActionResult"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Generating Python from MSG kinova_msgs/SetFingersPositionActionFeedback"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/lib/python3/dist-packages/kinova_msgs/msg

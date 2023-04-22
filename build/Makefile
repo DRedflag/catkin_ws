@@ -4250,56 +4250,17 @@ kinova_msgs_gencpp/fast:
 .PHONY : kinova_msgs_gencpp/fast
 
 #=============================================================================
-# Target rules for targets named depth_listener
+# Target rules for targets named sensor_msgs_generate_messages_cpp
 
 # Build rule for target.
-depth_listener: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 depth_listener
-.PHONY : depth_listener
+sensor_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_cpp
+.PHONY : sensor_msgs_generate_messages_cpp
 
 # fast build rule for target.
-depth_listener/fast:
-	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/depth_listener.dir/build.make personal_ros/depth_listener/CMakeFiles/depth_listener.dir/build
-.PHONY : depth_listener/fast
-
-#=============================================================================
-# Target rules for targets named sensor_msgs_generate_messages_py
-
-# Build rule for target.
-sensor_msgs_generate_messages_py: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_py
-.PHONY : sensor_msgs_generate_messages_py
-
-# fast build rule for target.
-sensor_msgs_generate_messages_py/fast:
-	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
-.PHONY : sensor_msgs_generate_messages_py/fast
-
-#=============================================================================
-# Target rules for targets named sensor_msgs_generate_messages_nodejs
-
-# Build rule for target.
-sensor_msgs_generate_messages_nodejs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_nodejs
-.PHONY : sensor_msgs_generate_messages_nodejs
-
-# fast build rule for target.
-sensor_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
-.PHONY : sensor_msgs_generate_messages_nodejs/fast
-
-#=============================================================================
-# Target rules for targets named sensor_msgs_generate_messages_lisp
-
-# Build rule for target.
-sensor_msgs_generate_messages_lisp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_lisp
-.PHONY : sensor_msgs_generate_messages_lisp
-
-# fast build rule for target.
-sensor_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
-.PHONY : sensor_msgs_generate_messages_lisp/fast
+sensor_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+.PHONY : sensor_msgs_generate_messages_cpp/fast
 
 #=============================================================================
 # Target rules for targets named sensor_msgs_generate_messages_eus
@@ -4315,17 +4276,69 @@ sensor_msgs_generate_messages_eus/fast:
 .PHONY : sensor_msgs_generate_messages_eus/fast
 
 #=============================================================================
-# Target rules for targets named sensor_msgs_generate_messages_cpp
+# Target rules for targets named sensor_msgs_generate_messages_lisp
 
 # Build rule for target.
-sensor_msgs_generate_messages_cpp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_cpp
-.PHONY : sensor_msgs_generate_messages_cpp
+sensor_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_lisp
+.PHONY : sensor_msgs_generate_messages_lisp
 
 # fast build rule for target.
-sensor_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
-.PHONY : sensor_msgs_generate_messages_cpp/fast
+sensor_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+.PHONY : sensor_msgs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_nodejs
+
+# Build rule for target.
+sensor_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_nodejs
+.PHONY : sensor_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+sensor_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
+.PHONY : sensor_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named sensor_msgs_generate_messages_py
+
+# Build rule for target.
+sensor_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sensor_msgs_generate_messages_py
+.PHONY : sensor_msgs_generate_messages_py
+
+# fast build rule for target.
+sensor_msgs_generate_messages_py/fast:
+	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make personal_ros/depth_listener/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+.PHONY : sensor_msgs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named depth_listener
+
+# Build rule for target.
+depth_listener: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 depth_listener
+.PHONY : depth_listener
+
+# fast build rule for target.
+depth_listener/fast:
+	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/depth_listener.dir/build.make personal_ros/depth_listener/CMakeFiles/depth_listener.dir/build
+.PHONY : depth_listener/fast
+
+#=============================================================================
+# Target rules for targets named cloudpoint
+
+# Build rule for target.
+cloudpoint: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 cloudpoint
+.PHONY : cloudpoint
+
+# fast build rule for target.
+cloudpoint/fast:
+	$(MAKE) -f personal_ros/depth_listener/CMakeFiles/cloudpoint.dir/build.make personal_ros/depth_listener/CMakeFiles/cloudpoint.dir/build
+.PHONY : cloudpoint/fast
 
 #=============================================================================
 # Target rules for targets named ackermann_msgs_generate_messages_cpp
@@ -8307,12 +8320,13 @@ help:
 	@echo "... kinova_msgs_generate_messages_lisp"
 	@echo "... _kinova_msgs_generate_messages_check_deps_SetEndEffectorOffset"
 	@echo "... kinova_msgs_gencpp"
-	@echo "... depth_listener"
-	@echo "... sensor_msgs_generate_messages_py"
-	@echo "... sensor_msgs_generate_messages_nodejs"
-	@echo "... sensor_msgs_generate_messages_lisp"
-	@echo "... sensor_msgs_generate_messages_eus"
 	@echo "... sensor_msgs_generate_messages_cpp"
+	@echo "... sensor_msgs_generate_messages_eus"
+	@echo "... sensor_msgs_generate_messages_lisp"
+	@echo "... sensor_msgs_generate_messages_nodejs"
+	@echo "... sensor_msgs_generate_messages_py"
+	@echo "... depth_listener"
+	@echo "... cloudpoint"
 	@echo "... ackermann_msgs_generate_messages_cpp"
 	@echo "... ackermann_msgs_generate_messages_py"
 	@echo "... ackermann_msgs_generate_messages_lisp"

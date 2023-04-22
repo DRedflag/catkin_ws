@@ -78,9 +78,9 @@ trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/CMakeFiles/
 
 /home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /opt/ros/noetic/lib/gencpp/gen_cpp.py
 /home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/msg/JointTrajectoryCommand.msg
-/home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /opt/ros/noetic/share/trajectory_msgs/msg/JointTrajectoryPoint.msg
 /home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /opt/ros/noetic/share/trajectory_msgs/msg/JointTrajectory.msg
+/home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /opt/ros/noetic/share/trajectory_msgs/msg/JointTrajectoryPoint.msg
 /home/redflag/catkin_ws/devel/include/interbotix_xs_sdk/JointTrajectoryCommand.h: /opt/ros/noetic/share/gencpp/msg.h.template
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating C++ code from interbotix_xs_sdk/JointTrajectoryCommand.msg"
 	cd /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk && /home/redflag/catkin_ws/build/catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/msg/JointTrajectoryCommand.msg -Iinterbotix_xs_sdk:/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -Itrajectory_msgs:/opt/ros/noetic/share/trajectory_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -p interbotix_xs_sdk -o /home/redflag/catkin_ws/devel/include/interbotix_xs_sdk -e /opt/ros/noetic/share/gencpp/cmake/..

@@ -79,7 +79,7 @@ rosunit_rcomponent_log_EXTERNAL_OBJECTS =
 
 /home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: rcomponent/CMakeFiles/rosunit_rcomponent_log.dir/test/rosunit_rcomponent_log.cpp.o
 /home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: rcomponent/CMakeFiles/rosunit_rcomponent_log.dir/build.make
-/home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: gtest/lib/libgtest.so
+/home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: gtest/lib/libgtestd.so
 /home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: /opt/ros/noetic/lib/libdiagnostic_updater.so
 /home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: /opt/ros/noetic/lib/libroscpp.so
 /home/redflag/catkin_ws/devel/lib/rcomponent/rosunit_rcomponent_log: /usr/lib/x86_64-linux-gnu/libpthread.so

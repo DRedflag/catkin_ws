@@ -145,16 +145,16 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_nodejs: /home/re
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Generating Javascript code from kinova_msgs/ArmJointAnglesAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
@@ -169,21 +169,21 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_nodejs: /home/re
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Generating Javascript code from kinova_msgs/ArmJointAnglesActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Generating Javascript code from kinova_msgs/ArmJointAnglesActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
@@ -207,42 +207,42 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_nodejs: /home/re
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseAction.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Generating Javascript code from kinova_msgs/ArmPoseAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Generating Javascript code from kinova_msgs/ArmPoseActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Generating Javascript code from kinova_msgs/ArmPoseActionResult.msg"
@@ -250,86 +250,86 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_nodejs: /home/re
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Generating Javascript code from kinova_msgs/ArmPoseActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Generating Javascript code from kinova_msgs/ArmPoseGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Generating Javascript code from kinova_msgs/ArmPoseResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Generating Javascript code from kinova_msgs/ArmPoseFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Generating Javascript code from kinova_msgs/Arm_KinovaPoseAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Generating Javascript code from kinova_msgs/Arm_KinovaPoseActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Generating Javascript code from kinova_msgs/Arm_KinovaPoseActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Generating Javascript code from kinova_msgs/Arm_KinovaPoseActionFeedback.msg"
@@ -355,16 +355,16 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_nodejs: /home/re
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Generating Javascript code from kinova_msgs/SetFingersPositionAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
@@ -372,27 +372,27 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_nodejs: /home/re
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Generating Javascript code from kinova_msgs/SetFingersPositionActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Generating Javascript code from kinova_msgs/SetFingersPositionActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Generating Javascript code from kinova_msgs/SetFingersPositionActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/gennodejs/ros/kinova_msgs/msg

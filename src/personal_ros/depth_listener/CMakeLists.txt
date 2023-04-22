@@ -15,6 +15,19 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
 )
 find_package( OpenCV REQUIRED )
+find_package( PCL REQUIRED COMPONENTS
+        common
+        feature
+        filters
+        io
+        segmentation
+        surface
+)
+find_package( Boost REQUIRED COMPONENTS
+        system
+        filesystem
+        thread
+)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -120,8 +133,10 @@ catkin_package(
 ## Your package locations should be listed before other locations
 include_directories(
 # include
+  ${PCL_INCLUDE_DIRS}
   ${catkin_INCLUDE_DIRS}
   ${OpenCV_INCLUDE_DIRS}
+  ${Boost_INCLUDE_DIRS}
 )
 
 ## Declare a C++ library
@@ -138,6 +153,7 @@ include_directories(
 ## With catkin_make all packages are built within a single CMake context
 ## The recommended prefix ensures that target names across packages don't collide
 add_executable(depth_listener src/depth.cpp)
+add_executable(cloudpoint src/cloudpoint.cpp)
 
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
@@ -154,7 +170,12 @@ target_link_libraries(depth_listener
   ${catkin_LIBRARIES}
   ${OPENCV_LIBS}
 )
-
+target_link_libraries(cloudpoint
+  ${Boost_LIBRARIES}
+  ${PCL_LIBRARIES}
+  ${catkin_LIBRARIES}
+  ${OPENCV_LIBS}
+)
 #############
 ## Install ##
 #############

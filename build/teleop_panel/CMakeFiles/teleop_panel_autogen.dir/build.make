@@ -55,7 +55,7 @@ include teleop_panel/CMakeFiles/teleop_panel_autogen.dir/progress.make
 
 teleop_panel/CMakeFiles/teleop_panel_autogen:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target teleop_panel"
-	cd /home/redflag/catkin_ws/build/teleop_panel && /usr/bin/cmake -E cmake_autogen /home/redflag/catkin_ws/build/teleop_panel/CMakeFiles/teleop_panel_autogen.dir/AutogenInfo.json ""
+	cd /home/redflag/catkin_ws/build/teleop_panel && /usr/bin/cmake -E cmake_autogen /home/redflag/catkin_ws/build/teleop_panel/CMakeFiles/teleop_panel_autogen.dir/AutogenInfo.json Debug
 
 teleop_panel_autogen: teleop_panel/CMakeFiles/teleop_panel_autogen
 teleop_panel_autogen: teleop_panel/CMakeFiles/teleop_panel_autogen.dir/build.make

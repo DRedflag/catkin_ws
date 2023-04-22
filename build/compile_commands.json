@@ -1,0 +1,477 @@
+[
+{
+  "directory": "/home/redflag/catkin_ws/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/personal_ros/beginner_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"beginner_tutorial\\\" -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/listener.dir/src/listener.cpp.o -c /home/redflag/catkin_ws/src/personal_ros/beginner_tutorial/src/listener.cpp",
+  "file": "/home/redflag/catkin_ws/src/personal_ros/beginner_tutorial/src/listener.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/personal_ros/beginner_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"beginner_tutorial\\\" -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/talker.dir/src/talker.cpp.o -c /home/redflag/catkin_ws/src/personal_ros/beginner_tutorial/src/talker.cpp",
+  "file": "/home/redflag/catkin_ws/src/personal_ros/beginner_tutorial/src/talker.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dynamixel_workbench_toolbox\\\" -Ddynamixel_workbench_toolbox_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_item.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_item.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_item.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dynamixel_workbench_toolbox\\\" -Ddynamixel_workbench_toolbox_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dynamixel_workbench_toolbox\\\" -Ddynamixel_workbench_toolbox_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_tool.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_tool.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_tool.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dynamixel_workbench_toolbox\\\" -Ddynamixel_workbench_toolbox_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_workbench.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_workbench.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_workbench.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/rcomponent_simple.dir/src/simple_component.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/src/simple_component.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/src/simple_component.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -Drcomponent_EXPORTS -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/rcomponent.dir/src/rcomponent.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/src/rcomponent.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/src/rcomponent.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -std=c++11 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/rosunit_rcomponent_log.dir/test/rosunit_rcomponent_log.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/test/rosunit_rcomponent_log.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/test/rosunit_rcomponent_log.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/rcomponent_server.dir/src/simple_service_component.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/src/simple_service_component.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/src/simple_service_component.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/test_namespace.dir/test/test_namespace.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/test/test_namespace.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/test/test_namespace.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/rcomponent_simple_async.dir/src/simple_component_async.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/src/simple_component_async.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/src/simple_component_async.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/rcomponent",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rcomponent\\\" -I/home/redflag/catkin_ws/src/rcomponent/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/rcomponent_diagnostic.dir/src/simple_diagnostics_component.cpp.o -c /home/redflag/catkin_ws/src/rcomponent/src/simple_diagnostics_component.cpp",
+  "file": "/home/redflag/catkin_ws/src/rcomponent/src/simple_diagnostics_component.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_elevator_interface/robotnik_elevator_component",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_elevator_component\\\" -I/home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/robotnik_fake_elevator_node.dir/src/robotnik_fake_elevator_node.cpp.o -c /home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/src/robotnik_fake_elevator_node.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/src/robotnik_fake_elevator_node.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_elevator_interface/robotnik_elevator_component",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_elevator_component\\\" -Drobotnik_elevator_component_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_elevator_component.dir/src/robotnik_elevator_component.cpp.o -c /home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/src/robotnik_elevator_component.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/src/robotnik_elevator_component.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_elevator_interface/elevator_controller_modbus",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"elevator_controller_modbus\\\" -I/home/redflag/catkin_ws/src/robotnik_elevator_interface/elevator_controller_modbus/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/robotnik_elevator_component_modbus_node.dir/src/robotnik_elevator_component_modbus_node.cpp.o -c /home/redflag/catkin_ws/src/robotnik_elevator_interface/elevator_controller_modbus/src/robotnik_elevator_component_modbus_node.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_elevator_interface/elevator_controller_modbus/src/robotnik_elevator_component_modbus_node.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_elevator_interface/elevator_controller_modbus",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"elevator_controller_modbus\\\" -I/home/redflag/catkin_ws/src/robotnik_elevator_interface/elevator_controller_modbus/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_elevator_interface/robotnik_elevator_component/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/elevator_controller_interface_node.dir/src/elevator_controller_interface_node.cpp.o -c /home/redflag/catkin_ws/src/robotnik_elevator_interface/elevator_controller_modbus/src/elevator_controller_interface_node.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_elevator_interface/elevator_controller_modbus/src/elevator_controller_interface_node.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/personal_ros/depth_listener",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depth_listener\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/usr/include/pcl-1.10 -I/usr/include/eigen3 -I/usr/include/ni -I/usr/include/openni2 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4    -g   -o CMakeFiles/depth_listener.dir/src/depth.cpp.o -c /home/redflag/catkin_ws/src/personal_ros/depth_listener/src/depth.cpp",
+  "file": "/home/redflag/catkin_ws/src/personal_ros/depth_listener/src/depth.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/personal_ros/depth_listener",
+  "command": "/usr/bin/c++  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depth_listener\\\" -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2    -g   -o CMakeFiles/cloudpoint.dir/src/cloudpoint.cpp.o -c /home/redflag/catkin_ws/src/personal_ros/depth_listener/src/cloudpoint.cpp",
+  "file": "/home/redflag/catkin_ws/src/personal_ros/depth_listener/src/cloudpoint.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad\\\" -Drobotnik_pad_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad.dir/src/robotnik_pad.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/src/robotnik_pad.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/src/robotnik_pad.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad\\\" -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/robotnik_pad_node.dir/src/robotnik_pad_node.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/src/robotnik_pad_node.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/src/robotnik_pad_node.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad_plugins",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad_plugins\\\" -Drobotnik_pad_pluginlib_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad_pluginlib.dir/src/generic_pad_plugins.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/generic_pad_plugins.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/generic_pad_plugins.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad_plugins",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad_plugins\\\" -Drobotnik_pad_plugins_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad_plugins.dir/src/movement_plugin.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/movement_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/movement_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad_plugins",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad_plugins\\\" -Drobotnik_pad_plugins_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad_plugins.dir/src/elevator_plugin.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/elevator_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/elevator_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad_plugins",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad_plugins\\\" -Drobotnik_pad_plugins_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad_plugins.dir/src/ackermann_movement_plugin.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/ackermann_movement_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/ackermann_movement_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad_plugins",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad_plugins\\\" -Drobotnik_pad_plugins_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad_plugins.dir/src/poi_plugin.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/poi_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/poi_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_pad/robotnik_pad_plugins",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_pad_plugins\\\" -Drobotnik_pad_plugins_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad/include -I/home/redflag/catkin_ws/src/rcomponent/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/robotnik_pad_plugins.dir/src/ptz_plugin.cpp.o -c /home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/ptz_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_pad/robotnik_pad_plugins/src/ptz_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/summit_xl_common/summit_xl_pad",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"summit_xl_pad\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/summit_xl_common/summit_xl_pad/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/summit_xl_pad.dir/src/summit_xl_pad.cpp.o -c /home/redflag/catkin_ws/src/summit_xl_common/summit_xl_pad/src/summit_xl_pad.cpp",
+  "file": "/home/redflag/catkin_ws/src/summit_xl_common/summit_xl_pad/src/summit_xl_pad.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_gazebo_plugins/robotnik_force_based_move",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_force_based_move\\\" -Drobotnik_force_based_move_EXPORTS -I/home/redflag/catkin_ws/src/robotnik_gazebo_plugins/robotnik_force_based_move/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/gazebo-11 -I/usr/include/bullet -I/usr/include/sdformat-9.8 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging -isystem /opt/ros/noetic/include -isystem /usr/include/simbody -isystem /usr/include/ignition/math6 -isystem /usr/include/ignition/transport8 -isystem /usr/include/ignition/msgs5 -isystem /usr/include/ignition/common3 -isystem /usr/include/ignition/fuel_tools4 -isystem /usr/include/eigen3 -isystem /usr/include/sdformat-9.8/sdf/.. -isystem /usr/include/ignition/cmake2 -isystem /usr/include/uuid    -g -fPIC   -I/usr/include/uuid -std=gnu++17 -o CMakeFiles/robotnik_force_based_move.dir/src/robotnik_force_based_move.cpp.o -c /home/redflag/catkin_ws/src/robotnik_gazebo_plugins/robotnik_force_based_move/src/robotnik_force_based_move.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_gazebo_plugins/robotnik_force_based_move/src/robotnik_force_based_move.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/gripper_command_action_server.dir/src/joint_trajectory_action/gripper_command_action_server.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/joint_trajectory_action/gripper_command_action_server.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/joint_trajectory_action/gripper_command_action_server.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_api.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_api.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_api.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_arm.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_arm.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_arm.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_comm.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_comm.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_comm.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_tool_pose_action.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_tool_pose_action.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_tool_pose_action.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_joint_angles_action.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_joint_angles_action.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_joint_angles_action.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_fingers_action.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_fingers_action.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_fingers_action.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_ros_types.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_ros_types.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_ros_types.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -Dkinova_driver_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/kinova_driver.dir/src/kinova_joint_trajectory_controller.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_joint_trajectory_controller.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_joint_trajectory_controller.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/kinova_arm_driver.dir/src/nodes/kinova_arm_driver.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/nodes/kinova_arm_driver.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/nodes/kinova_arm_driver.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/joint_trajectory_action_server.dir/src/joint_trajectory_action/joint_trajectory_action_server.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/joint_trajectory_action/joint_trajectory_action_server.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/joint_trajectory_action/joint_trajectory_action_server.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/kinova_tf_updater.dir/src/kinova_ros_types.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_ros_types.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_ros_types.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/kinova_tf_updater.dir/src/nodes/kinova_tf_updater.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/nodes/kinova_tf_updater.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/nodes/kinova_tf_updater.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/kinova_tf_updater.dir/src/kinova_arm_kinematics.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_arm_kinematics.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/kinova_arm_kinematics.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_driver",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_driver\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/kinova_interactive_control.dir/src/nodes/kinova_interactive_control.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/nodes/kinova_interactive_control.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/src/nodes/kinova_interactive_control.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk",
+  "command": "/usr/bin/c++  -DHAVE_NEW_YAMLCPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xs_sdk\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/xs_sdk.dir/src/xs_sdk.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/src/xs_sdk.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/src/xs_sdk.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk",
+  "command": "/usr/bin/c++  -DHAVE_NEW_YAMLCPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xs_sdk\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/xs_sdk.dir/src/xs_sdk_obj.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/src/xs_sdk_obj.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/src/xs_sdk_obj.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk",
+  "command": "/usr/bin/c++  -DHAVE_NEW_YAMLCPP -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xs_sdk\\\" -Dinterbotix_xs_sdk_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/interbotix_xs_sdk.dir/src/xs_sdk_obj.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/src/xs_sdk_obj.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/src/xs_sdk_obj.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/robotnik_gazebo_plugins/robotnik_gazebo_ground_truth_odom",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_IOSTREAMS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DLIBBULLET_VERSION=2.88 -DLIBBULLET_VERSION_GT_282 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotnik_gazebo_ground_truth_odom\\\" -Drobotnik_gazebo_ground_truth_odom_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/robotnik_gazebo_plugins/robotnik_gazebo_ground_truth_odom/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/gazebo-11 -I/usr/include/bullet -I/usr/include/sdformat-9.8 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging -I/usr/include/opencv4 -isystem /opt/ros/noetic/include -isystem /usr/include/simbody -isystem /usr/include/ignition/math6 -isystem /usr/include/ignition/transport8 -isystem /usr/include/ignition/msgs5 -isystem /usr/include/ignition/common3 -isystem /usr/include/ignition/fuel_tools4 -isystem /usr/include/eigen3 -isystem /usr/include/sdformat-9.8/sdf/.. -isystem /usr/include/ignition/cmake2 -isystem /usr/include/uuid    -g -fPIC   -fPIC -I/usr/include/uuid -std=gnu++17 -o CMakeFiles/robotnik_gazebo_ground_truth_odom.dir/src/robotnik_gazebo_ground_truth_odom.cpp.o -c /home/redflag/catkin_ws/src/robotnik_gazebo_plugins/robotnik_gazebo_ground_truth_odom/src/robotnik_gazebo_ground_truth_odom.cpp",
+  "file": "/home/redflag/catkin_ws/src/robotnik_gazebo_plugins/robotnik_gazebo_ground_truth_odom/src/robotnik_gazebo_ground_truth_odom.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"j2n6s300_ikfast\\\" -Dj2n6s300_arm_moveit_ikfast_plugin_EXPORTS -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/include  -g -fPIC   -std=c++11 -o CMakeFiles/j2n6s300_arm_moveit_ikfast_plugin.dir/src/j2n6s300_arm_ikfast_moveit_plugin.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/src/j2n6s300_arm_ikfast_moveit_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/src/j2n6s300_arm_ikfast_moveit_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"j2s6s300_ikfast\\\" -Dj2s6s300_arm_moveit_ikfast_plugin_EXPORTS -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast/include  -g -fPIC   -std=c++11 -o CMakeFiles/j2s6s300_arm_moveit_ikfast_plugin.dir/src/j2s6s300_arm_ikfast_moveit_plugin.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast/src/j2s6s300_arm_ikfast_moveit_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast/src/j2s6s300_arm_ikfast_moveit_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"j2s7s300_ikfast\\\" -Dj2s7s300_robot_arm_moveit_ikfast_plugin_EXPORTS -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/include  -g -fPIC   -std=c++11 -o CMakeFiles/j2s7s300_robot_arm_moveit_ikfast_plugin.dir/src/j2s7s300_robot_arm_ikfast_moveit_plugin.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/src/j2s7s300_robot_arm_ikfast_moveit_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/src/j2s7s300_robot_arm_ikfast_moveit_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"m1n6s300_ikfast\\\" -Dm1n6s300_mico_arm_moveit_ikfast_plugin_EXPORTS -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/include  -g -fPIC   -std=c++11 -o CMakeFiles/m1n6s300_mico_arm_moveit_ikfast_plugin.dir/src/m1n6s300_mico_arm_ikfast_moveit_plugin.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/src/m1n6s300_mico_arm_ikfast_moveit_plugin.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/src/m1n6s300_mico_arm_ikfast_moveit_plugin.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/teleop_panel",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_KEYWORDS -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teleop_panel\\\" -Dteleop_panel_EXPORTS -I/home/redflag/catkin_ws/build/teleop_panel/teleop_panel_autogen/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g -fPIC   -fPIC -o CMakeFiles/teleop_panel.dir/teleop_panel_autogen/mocs_compilation.cpp.o -c /home/redflag/catkin_ws/build/teleop_panel/teleop_panel_autogen/mocs_compilation.cpp",
+  "file": "/home/redflag/catkin_ws/build/teleop_panel/teleop_panel_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/teleop_panel",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_KEYWORDS -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teleop_panel\\\" -Dteleop_panel_EXPORTS -I/home/redflag/catkin_ws/build/teleop_panel/teleop_panel_autogen/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g -fPIC   -fPIC -o CMakeFiles/teleop_panel.dir/src/drive_widget.cpp.o -c /home/redflag/catkin_ws/src/teleop_panel/src/drive_widget.cpp",
+  "file": "/home/redflag/catkin_ws/src/teleop_panel/src/drive_widget.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/teleop_panel",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_KEYWORDS -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teleop_panel\\\" -Dteleop_panel_EXPORTS -I/home/redflag/catkin_ws/build/teleop_panel/teleop_panel_autogen/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g -fPIC   -fPIC -o CMakeFiles/teleop_panel.dir/src/teleop_panel.cpp.o -c /home/redflag/catkin_ws/src/teleop_panel/src/teleop_panel.cpp",
+  "file": "/home/redflag/catkin_ws/src/teleop_panel/src/teleop_panel.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/costmap_prohibition_layer",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_prohibition_layer\\\" -Dcostmap_prohibition_layer_EXPORTS -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/costmap_prohibition_layer/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3   -std=c++11 -g -fPIC   -o CMakeFiles/costmap_prohibition_layer.dir/src/costmap_prohibition_layer.cpp.o -c /home/redflag/catkin_ws/src/costmap_prohibition_layer/src/costmap_prohibition_layer.cpp",
+  "file": "/home/redflag/catkin_ws/src/costmap_prohibition_layer/src/costmap_prohibition_layer.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_moveit_interface\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/moveit_interface.dir/src/moveit_interface.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_moveit_interface\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/kinova_arm_moveit_demo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_arm_moveit_demo\\\" -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/bullet -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -isystem /usr/include/eigen3  -g   -std=c++11 -o CMakeFiles/test_accuracy.dir/src/test_accuracy.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/kinova_arm_moveit_demo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_arm_moveit_demo\\\" -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/bullet -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -isystem /usr/include/eigen3  -g   -std=c++11 -o CMakeFiles/work_scene.dir/src/work_scene.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/work_scene.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/work_scene.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/kinova_arm_moveit_demo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_arm_moveit_demo\\\" -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/bullet -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -isystem /usr/include/eigen3  -g   -std=c++11 -o CMakeFiles/pick_place.dir/src/pick_place.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/kinova-ros/kinova_moveit/kinova_arm_moveit_demo",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kinova_arm_moveit_demo\\\" -I/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/bullet -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/kinova-ros/kinova_driver/include -isystem /usr/include/eigen3  -g   -std=c++11 -o CMakeFiles/motion_plan.dir/src/motion_plan.cpp.o -c /home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/motion_plan.cpp",
+  "file": "/home/redflag/catkin_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/motion_plan.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_diagnostic_tool",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xsarm_diagnostic_tool\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/xsarm_diagnostic_tool.dir/src/xsarm_diagnostic_tool.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_diagnostic_tool/src/xsarm_diagnostic_tool.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_diagnostic_tool/src/xsarm_diagnostic_tool.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_joy",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xsarm_joy\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/xsarm_joy.dir/src/xsarm_joy.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_joy/src/xsarm_joy.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_joy/src/xsarm_joy.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xsarm_pid\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/xsarm_pid.dir/src/xsarm_pid.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/src/xsarm_pid.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/src/xsarm_pid.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xsarm_pid\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/xsarm_pid.dir/src/pid.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/src/pid.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/src/pid.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_puppet",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xsarm_puppet\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/xsarm_puppet_single.dir/src/xsarm_puppet_single.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_puppet/src/xsarm_puppet_single.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_puppet/src/xsarm_puppet_single.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_puppet",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xsarm_puppet\\\" -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE  -g   -std=c++11 -o CMakeFiles/xsarm_puppet.dir/src/xsarm_puppet.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_puppet/src/xsarm_puppet.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_puppet/src/xsarm_puppet.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xs_ros_control\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/xs_hardware_interface.dir/src/xs_hardware_interface.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/src/xs_hardware_interface.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/src/xs_hardware_interface.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_xs_ros_control\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/xs_hardware_interface.dir/src/xs_hardware_interface_obj.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/src/xs_hardware_interface_obj.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/src/xs_hardware_interface_obj.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/connect.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/connect.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/connect.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/report_data.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/report_data.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/report_data.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/common/crc16.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/common/crc16.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/common/crc16.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/common/queue_memcpy.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/common/queue_memcpy.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/common/queue_memcpy.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/debug/debug_print.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/debug/debug_print.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/debug/debug_print.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/instruction/uxbus_cmd.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/instruction/uxbus_cmd.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/instruction/uxbus_cmd.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/instruction/uxbus_cmd_ser.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/instruction/uxbus_cmd_ser.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/instruction/uxbus_cmd_ser.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/instruction/uxbus_cmd_tcp.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/instruction/uxbus_cmd_tcp.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/instruction/uxbus_cmd_tcp.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/linux/network.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/linux/network.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/linux/network.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/linux/thread.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/linux/thread.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/linux/thread.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/port/serial.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/port/serial.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/port/serial.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_api_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_api.dir/src/xarm/port/socket.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/port/socket.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm/port/socket.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -Dxarm_ros_client_EXPORTS -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -std=c++11 -o CMakeFiles/xarm_ros_client.dir/src/xarm_ros_client.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm_ros_client.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm_ros_client.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/servo_cart_test.dir/test/servo_cartesian_test.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/servo_cartesian_test.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/servo_cartesian_test.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/example1_report_norm_node.dir/test/example1_report_norm.cc.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/example1_report_norm.cc",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/example1_report_norm.cc"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/xarm_driver_node.dir/src/xarm_driver_node.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm_driver_node.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm_driver_node.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/xarm_driver_node.dir/src/xarm_driver.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm_driver.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/src/xarm_driver.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/move_test.dir/test/move_test.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/move_test.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/move_test.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"xarm_api\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/home/redflag/catkin_ws/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/test_tool_modbus.dir/test/test_tool_modbus.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/test_tool_modbus.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/test/test_tool_modbus.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_ux_ros_control\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/ux_hardware_interface.dir/src/ux_hardware_interface.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/src/ux_hardware_interface.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/src/ux_hardware_interface.cpp"
+},
+{
+  "directory": "/home/redflag/catkin_ws/build/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"interbotix_ux_ros_control\\\" -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/include -I/home/redflag/catkin_ws/devel/include -I/home/redflag/catkin_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/ux_hardware_interface.dir/src/ux_hardware_interface_obj.cpp.o -c /home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/src/ux_hardware_interface_obj.cpp",
+  "file": "/home/redflag/catkin_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/src/ux_hardware_interface_obj.cpp"
+}
+]
