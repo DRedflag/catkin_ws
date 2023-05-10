@@ -146,45 +146,45 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_eus: /home/redfl
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Generating EusLisp code from kinova_msgs/ArmJointAnglesAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Generating EusLisp code from kinova_msgs/ArmJointAnglesActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Generating EusLisp code from kinova_msgs/ArmJointAnglesActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/JointAngles.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Generating EusLisp code from kinova_msgs/ArmJointAnglesActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
@@ -208,102 +208,102 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_eus: /home/redfl
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseAction.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Generating EusLisp code from kinova_msgs/ArmPoseAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Generating EusLisp code from kinova_msgs/ArmPoseActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Generating EusLisp code from kinova_msgs/ArmPoseActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Generating EusLisp code from kinova_msgs/ArmPoseActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Generating EusLisp code from kinova_msgs/ArmPoseGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Generating EusLisp code from kinova_msgs/ArmPoseResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/PoseStamped.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Point.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l: /opt/ros/noetic/share/geometry_msgs/msg/Pose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Generating EusLisp code from kinova_msgs/ArmPoseFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Generating EusLisp code from kinova_msgs/Arm_KinovaPoseAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
@@ -311,28 +311,28 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_eus: /home/redfl
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Generating EusLisp code from kinova_msgs/Arm_KinovaPoseActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Generating EusLisp code from kinova_msgs/Arm_KinovaPoseActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/KinovaPose.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Generating EusLisp code from kinova_msgs/Arm_KinovaPoseActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
@@ -356,45 +356,45 @@ kinova-ros/kinova_msgs/CMakeFiles/kinova_msgs_generate_messages_eus: /home/redfl
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Generating EusLisp code from kinova_msgs/SetFingersPositionAction.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Generating EusLisp code from kinova_msgs/SetFingersPositionActionGoal.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Generating EusLisp code from kinova_msgs/SetFingersPositionActionResult.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /opt/ros/noetic/lib/geneus/gen_eus.py
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg/FingerPosition.msg
 /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/redflag/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Generating EusLisp code from kinova_msgs/SetFingersPositionActionFeedback.msg"
 	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/geneus/cmake/../../../lib/geneus/gen_eus.py /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg -Ikinova_msgs:/home/redflag/catkin_ws/src/kinova-ros/kinova_msgs/msg -Ikinova_msgs:/home/redflag/catkin_ws/devel/share/kinova_msgs/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p kinova_msgs -o /home/redflag/catkin_ws/devel/share/roseus/ros/kinova_msgs/msg
 

@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/redflag/catkin_ws/build
 include kinova-ros/kinova_msgs/CMakeFiles/_kinova_msgs_generate_messages_check_deps_SetFingersPositionActionGoal.dir/progress.make
 
 kinova-ros/kinova_msgs/CMakeFiles/_kinova_msgs_generate_messages_check_deps_SetFingersPositionActionGoal:
-	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py kinova_msgs /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg kinova_msgs/SetFingersPositionGoal:std_msgs/Header:actionlib_msgs/GoalID:kinova_msgs/FingerPosition
+	cd /home/redflag/catkin_ws/build/kinova-ros/kinova_msgs && ../../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py kinova_msgs /home/redflag/catkin_ws/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg kinova_msgs/FingerPosition:kinova_msgs/SetFingersPositionGoal:std_msgs/Header:actionlib_msgs/GoalID
 
 _kinova_msgs_generate_messages_check_deps_SetFingersPositionActionGoal: kinova-ros/kinova_msgs/CMakeFiles/_kinova_msgs_generate_messages_check_deps_SetFingersPositionActionGoal
 _kinova_msgs_generate_messages_check_deps_SetFingersPositionActionGoal: kinova-ros/kinova_msgs/CMakeFiles/_kinova_msgs_generate_messages_check_deps_SetFingersPositionActionGoal.dir/build.make
